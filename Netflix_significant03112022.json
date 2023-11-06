@@ -9,6 +9,7 @@
   "aspect ratio": "16:9 HD",
   "sound mix": "Stereo",
   "number of seasons": 1,
+  "votes": 5473,
   "imdbID": "7608238",
   "plot outline": "Therapist Joy is trying to find a way to keep her spark with her husband, following a cycling accident which has put their sex life on hold. Suddenly Joy and Alan find themselves drawn to new people, and both are tempted to make the ultimate indiscretion.",
   "languages": "English",
@@ -328,28 +329,6 @@
       "_id": "nm5727840"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Andrew Eadie",
-      "_id": "nm5474760"
-    },
-    {
-      "name": "Andy Godbold",
-      "_id": "nm1209807"
-    },
-    {
-      "name": "Gary Hoptrough",
-      "_id": "nm1897902"
-    },
-    {
-      "name": "Claire Lawrence",
-      "_id": "nm3505054"
-    },
-    {
-      "name": "Tom Lucy",
-      "_id": "nm0524813"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Sim Bala",
@@ -616,11 +595,7 @@
       "_id": "nm6558428"
     }
   ],
-  "canonical title": "Wanderlust",
-  "long imdb title": "\"Wanderlust\" (2018)",
-  "long imdb canonical title": "\"Wanderlust\" (2018)",
-  "smart canonical title": "Wanderlust",
-  "smart long imdb canonical title": "\"Wanderlust\" (2018)"
+  "canonical title": "Wanderlust"
 },{
   "_id": "tt5674718",
   "original title": "Las chicas del cable",
@@ -647,6 +622,7 @@
     }
   ],
   "number of seasons": 5,
+  "votes": 14653,
   "imdbID": "5674718",
   "plot outline": "Trying to escape the past, thief Alba weasels herself a job working as a telephone operator in 1928 Madrid under a false identity. Escaping the past, however, proves to be extremely difficult as she realizes that your past is what creates your future involving friends, lovers, and feelings.",
   "languages": "Spanish",
@@ -1406,96 +1382,6 @@
       "_id": "nm5923683"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Carlos Nieto-Balboa",
-      "_id": "nm1694556"
-    },
-    {
-      "name": "Miguel Juzgado",
-      "_id": "nm5471174"
-    },
-    {
-      "name": "Martin Fourcade",
-      "_id": "nm9984267"
-    },
-    {
-      "name": "Ignacio Herráez",
-      "_id": "nm3376115"
-    },
-    {
-      "name": "Sonia Rodriguez Rodriguez",
-      "_id": "nm10525115"
-    },
-    {
-      "name": "Diego Álvarez",
-      "_id": "nm1444892"
-    },
-    {
-      "name": "Fernando Millán",
-      "_id": "nm1327624"
-    },
-    {
-      "name": "Rafael Ayuso",
-      "_id": "nm7055290"
-    },
-    {
-      "name": "Arancha Postigo",
-      "_id": "nm10651143"
-    },
-    {
-      "name": "Pablo Garaizabal",
-      "_id": "nm0304803"
-    },
-    {
-      "name": "Abian Padrón",
-      "_id": "nm3851395"
-    },
-    {
-      "name": "Stunt",
-      "_id": "nm10395543"
-    },
-    {
-      "name": "Bea Arregui",
-      "_id": "nm10284412"
-    },
-    {
-      "name": "Francisco González Leal",
-      "_id": "nm9589983"
-    },
-    {
-      "name": "Kaloian Vodenicharov",
-      "_id": "nm0900770"
-    },
-    {
-      "name": "Adrián de Cea",
-      "_id": "nm7723988"
-    },
-    {
-      "name": "Chemi Hitos",
-      "_id": "nm11234330"
-    },
-    {
-      "name": "William Monrabal Cook",
-      "_id": "nm6265711"
-    },
-    {
-      "name": "Jesús Ordóñez Carvajal",
-      "_id": "nm12069337"
-    },
-    {
-      "name": "Iván Pérez Rodríguez",
-      "_id": "nm9651968"
-    },
-    {
-      "name": "Roberto Rincón Sánchez",
-      "_id": "nm8628835"
-    },
-    {
-      "name": "Carlos Robles",
-      "_id": "nm3359973"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Manuel Fernández-Valdés",
@@ -1918,17 +1804,7 @@
       "_id": "nm0305314"
     }
   ],
-  "thanks": [
-    {
-      "name": "Joaquim Guedes",
-      "_id": "nm9694903"
-    }
-  ],
-  "canonical title": "Cable Girls",
-  "long imdb title": "\"Cable Girls\" (2017)",
-  "long imdb canonical title": "\"Cable Girls\" (2017)",
-  "smart canonical title": "Cable Girls",
-  "smart long imdb canonical title": "\"Cable Girls\" (2017)"
+  "canonical title": "Cable Girls"
 },{
   "_id": "tt5295524",
   "localized title": "Crashing",
@@ -1946,6 +1822,7 @@
     }
   ],
   "number of seasons": 1,
+  "votes": 21488,
   "imdbID": "5295524",
   "languages": "English",
   "title": "Crashing",
@@ -2496,11 +2373,7 @@
       "_id": "nm4528053"
     }
   ],
-  "canonical title": "Crashing",
-  "long imdb title": "\"Crashing\" (2016)",
-  "long imdb canonical title": "\"Crashing\" (2016)",
-  "smart canonical title": "Crashing",
-  "smart long imdb canonical title": "\"Crashing\" (2016)"
+  "canonical title": "Crashing"
 },{
   "_id": "tt5372890",
   "localized title": "Bonusfamiljen",
@@ -2529,6 +2402,7 @@
     }
   ],
   "number of seasons": 4,
+  "votes": 4172,
   "imdbID": "5372890",
   "languages": "Swedish",
   "title": "Bonusfamiljen",
@@ -3106,20 +2980,6 @@
       "_id": "nm1988498"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Seth Ericson",
-      "_id": "nm1054940"
-    },
-    {
-      "name": "Nicklas Hansson",
-      "_id": "nm4571226"
-    },
-    {
-      "name": "Peter Lundberg",
-      "_id": "nm0526322"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Paulina Persson",
@@ -3604,11 +3464,7 @@
       "_id": "nm6664552"
     }
   ],
-  "canonical title": "Bonusfamiljen",
-  "long imdb title": "\"Bonusfamiljen\" (2017)",
-  "long imdb canonical title": "\"Bonusfamiljen\" (2017)",
-  "smart canonical title": "Bonusfamiljen",
-  "smart long imdb canonical title": "\"Bonusfamiljen\" (2017)"
+  "canonical title": "Bonusfamiljen"
 },{
   "_id": "tt9731254",
   "localized title": "Three Days of Christmas",
@@ -3620,6 +3476,7 @@
   "aspect ratio": "16:9 HD",
   "sound mix": "Stereo",
   "number of seasons": 1,
+  "votes": 1274,
   "imdbID": "9731254",
   "languages": "Spanish",
   "title": "Three Days of Christmas",
@@ -3955,12 +3812,6 @@
       "_id": "nm7509803"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Sara Leal",
-      "_id": "nm8419092"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Daniel Escalé",
@@ -4147,11 +3998,7 @@
       "_id": "nm9674968"
     }
   ],
-  "canonical title": "Three Days of Christmas",
-  "long imdb title": "\"Three Days of Christmas\" (2019) (mini)",
-  "long imdb canonical title": "\"Three Days of Christmas\" (2019) (mini)",
-  "smart canonical title": "Three Days of Christmas",
-  "smart long imdb canonical title": "\"Three Days of Christmas\" (2019) (mini)"
+  "canonical title": "Three Days of Christmas"
 },{
   "_id": "tt7767422",
   "localized title": "Sex Education",
@@ -4169,6 +4016,7 @@
     "Dolby Atmos"
   ],
   "number of seasons": 4,
+  "votes": 277341,
   "imdbID": "7767422",
   "plot outline": "\"Socially awkward high school student Otis may not have much experience in the lovemaking department, but he gets good guidance on the topic in his personal sex ed course -- living with mom Jean, who is a sex therapist. Being surrounded by manuals, videos and tediously open conversations about sex, Otis has become a reluctant expert on the subject. When his classmates learn about his home life, Otis decides to use his insider knowledge to improve his status at school, so he teams with whip-smart bad girl Maeve to set up an underground sex therapy clinic to deal with their classmates' problems. But through his analysis of teenage sexuality, Otis realizes that he may need some therapy of his own.",
   "languages": "English",
@@ -5395,116 +5243,6 @@
       "_id": "nm5439963"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Crispin Layfield",
-      "_id": "nm0493522"
-    },
-    {
-      "name": "Belinda McGinley",
-      "_id": "nm2427605"
-    },
-    {
-      "name": "Felix Leech",
-      "_id": "nm7256929"
-    },
-    {
-      "name": "Stephanie Carey",
-      "_id": "nm1244246"
-    },
-    {
-      "name": "Robbie Keane",
-      "_id": "nm6077477"
-    },
-    {
-      "name": "Guy List",
-      "_id": "nm0514215"
-    },
-    {
-      "name": "Mens-Sana Tamakloe",
-      "_id": "nm2950654"
-    },
-    {
-      "name": "Rob Jarman",
-      "_id": "nm3633825"
-    },
-    {
-      "name": "Dani Biernat",
-      "_id": "nm0081608"
-    },
-    {
-      "name": "Bogdan Kumshatsky",
-      "_id": "nm6308467"
-    },
-    {
-      "name": "Derek Lea",
-      "_id": "nm0494749"
-    },
-    {
-      "name": "Paul Bailey",
-      "_id": "nm9325449"
-    },
-    {
-      "name": "Paul Joseph",
-      "_id": "nm10338488"
-    },
-    {
-      "name": "Cole Armitage",
-      "_id": "nm3731011"
-    },
-    {
-      "name": "Chris Morrison",
-      "_id": "nm6401214"
-    },
-    {
-      "name": "Gordon Seed",
-      "_id": "nm1167535"
-    },
-    {
-      "name": "Christian Cole",
-      "_id": "nm11311731"
-    },
-    {
-      "name": "Abbi Collins",
-      "_id": "nm0172106"
-    },
-    {
-      "name": "Ellie Keighley",
-      "_id": "nm7479989"
-    },
-    {
-      "name": "Christina Petrou",
-      "_id": "nm6410242"
-    },
-    {
-      "name": "Lucy Allen",
-      "_id": "nm0020788"
-    },
-    {
-      "name": "Lloyd Bass",
-      "_id": "nm1716063"
-    },
-    {
-      "name": "Annabel Canaven",
-      "_id": "nm4570675"
-    },
-    {
-      "name": "Lucy Fowl",
-      "_id": "nm9590093"
-    },
-    {
-      "name": "Maria Hippolyte",
-      "_id": "nm6672490"
-    },
-    {
-      "name": "Cristian Knight",
-      "_id": "nm2754932"
-    },
-    {
-      "name": "Christina Low",
-      "_id": "nm4778667"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "David Holliday",
@@ -6383,11 +6121,7 @@
       "_id": "nm8967057"
     }
   ],
-  "canonical title": "Sex Education",
-  "long imdb title": "\"Sex Education\" (2019)",
-  "long imdb canonical title": "\"Sex Education\" (2019)",
-  "smart canonical title": "Sex Education",
-  "smart long imdb canonical title": "\"Sex Education\" (2019)"
+  "canonical title": "Sex Education"
 },{
   "_id": "tt7120662",
   "localized title": "Derry Girls",
@@ -6408,6 +6142,7 @@
     }
   ],
   "number of seasons": 3,
+  "votes": 40734,
   "imdbID": "7120662",
   "languages": "English",
   "title": "Derry Girls",
@@ -7157,56 +6892,6 @@
     {
       "name": "Ryan Patrick Yates",
       "_id": "nm10238378"
-    }
-  ],
-  "stunt performer": [
-    {
-      "name": "Gary Greenberg",
-      "_id": "nm4078015"
-    },
-    {
-      "name": "Donal O'Farrell",
-      "_id": "nm0640974"
-    },
-    {
-      "name": "Lemuel Black",
-      "_id": "nm4455358"
-    },
-    {
-      "name": "Matt Sherren",
-      "_id": "nm2991091"
-    },
-    {
-      "name": "Donna Williams",
-      "_id": "nm2064879"
-    },
-    {
-      "name": "David Flynn",
-      "_id": "nm8181163"
-    },
-    {
-      "name": "Luke Harty",
-      "_id": "nm13093623"
-    },
-    {
-      "name": "Michelle O'Loughlin",
-      "_id": "nm11054755"
-    },
-    {
-      "name": "Gary Robinson",
-      "_id": "nm1643934"
-    },
-    {
-      "name": "Alan Walsh",
-      "_id": "nm0909533"
-    },
-    {
-      "name": "Paul Allen",
-      "_id": "nm11686666"
-    },
-    {
-      "name": "Michael Hanna",
-      "_id": "nm4713428"
     }
   ],
   "camera and electrical department": [
@@ -8147,11 +7832,7 @@
       "_id": "nm13884417"
     }
   ],
-  "canonical title": "Derry Girls",
-  "long imdb title": "\"Derry Girls\" (2018)",
-  "long imdb canonical title": "\"Derry Girls\" (2018)",
-  "smart canonical title": "Derry Girls",
-  "smart long imdb canonical title": "\"Derry Girls\" (2018)"
+  "canonical title": "Derry Girls"
 },{
   "_id": "tt6257970",
   "localized title": "The End of the F***ing World",
@@ -8170,6 +7851,7 @@
   "aspect ratio": "1.33 : 1 (past scenes)",
   "sound mix": "Dolby Digital",
   "number of seasons": 2,
+  "votes": 188830,
   "imdbID": "6257970",
   "plot outline": "Based on the award-winning series of comic books by Charles Forsman, The End of the F***ing World invites viewers into the dark and confusing lives of teen outsiders James and Alyssa as they embark on a road trip to find Alyssa's father, who left home when she was a child.",
   "languages": "English",
@@ -8840,40 +8522,6 @@
       "_id": "nm2918033"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Richard Hammatt",
-      "_id": "nm0358397"
-    },
-    {
-      "name": "Crispin Layfield",
-      "_id": "nm0493522"
-    },
-    {
-      "name": "Derek Lea",
-      "_id": "nm0494749"
-    },
-    {
-      "name": "Johnn Roberts",
-      "_id": "nm10034387"
-    },
-    {
-      "name": "Amanda Foster",
-      "_id": "nm0287674"
-    },
-    {
-      "name": "Grace Franzl",
-      "_id": "nm6228952"
-    },
-    {
-      "name": "Gary Hoptrough",
-      "_id": "nm1897902"
-    },
-    {
-      "name": "William Willoughby",
-      "_id": "nm0932598"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Paul Flint",
@@ -9408,11 +9056,7 @@
       "_id": "nm8980667"
     }
   ],
-  "canonical title": "End of the F***ing World, The",
-  "long imdb title": "\"The End of the F***ing World\" (2017)",
-  "long imdb canonical title": "\"End of the F***ing World, The\" (2017)",
-  "smart canonical title": "End of the F***ing World, The",
-  "smart long imdb canonical title": "\"End of the F***ing World, The\" (2017)"
+  "canonical title": "End of the F***ing World, The"
 },{
   "_id": "tt6729080",
   "localized title": "Collateral",
@@ -9435,6 +9079,7 @@
   "aspect ratio": "16:9 HD",
   "sound mix": "Stereo",
   "number of seasons": 1,
+  "votes": 18482,
   "imdbID": "6729080",
   "plot outline": "What starts off as a seemingly random shooting of a pizza delivery guy, then starts to unravel the bigger story, with characters having seemingly coincidental meetings. But there's more than meets meets the eye as this plot begins to unfold. Leading all the way back to a special forces branch of the military.",
   "languages": "English",
@@ -9819,40 +9464,6 @@
       "_id": "nm2342073"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Andy Godbold",
-      "_id": "nm1209807"
-    },
-    {
-      "name": "Andrew Burford",
-      "_id": "nm6739473"
-    },
-    {
-      "name": "Nellie Burroughes",
-      "_id": "nm3764885"
-    },
-    {
-      "name": "Levan Doran",
-      "_id": "nm1449708"
-    },
-    {
-      "name": "Xavier Lake",
-      "_id": "nm9816831"
-    },
-    {
-      "name": "Justin Pearson",
-      "_id": "nm1794098"
-    },
-    {
-      "name": "Matt Sherren",
-      "_id": "nm2991091"
-    },
-    {
-      "name": "Laura Swift",
-      "_id": "nm3055936"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Lauren Byrne",
@@ -10163,17 +9774,7 @@
       "_id": "nm8412402"
     }
   ],
-  "thanks": [
-    {
-      "name": "Stephen Dixon",
-      "_id": "nm9742913"
-    }
-  ],
-  "canonical title": "Collateral",
-  "long imdb title": "\"Collateral\" (2018) (mini)",
-  "long imdb canonical title": "\"Collateral\" (2018) (mini)",
-  "smart canonical title": "Collateral",
-  "smart long imdb canonical title": "\"Collateral\" (2018) (mini)"
+  "canonical title": "Collateral"
 },{
   "_id": "tt9486226",
   "localized title": "Les de l'hoquei",
@@ -10188,6 +9789,7 @@
   "aspect ratio": "16:9 HD",
   "sound mix": "Stereo",
   "number of seasons": 2,
+  "votes": 465,
   "imdbID": "9486226",
   "languages": "Catalan",
   "title": "Les de l'hoquei",
@@ -10849,12 +10451,6 @@
       "_id": "nm1967244"
     }
   ],
-  "stunt performer": [
-    {
-      "name": "Oscar Fernández Solà",
-      "_id": "nm10704809"
-    }
-  ],
   "camera and electrical department": [
     {
       "name": "Sergio Arcas",
@@ -11451,9 +11047,5 @@
       "_id": "nm2833593"
     }
   ],
-  "canonical title": "de l'hoquei, Les",
-  "long imdb title": "\"Les de l'hoquei\" (2019)",
-  "long imdb canonical title": "\"de l'hoquei, Les\" (2019)",
-  "smart canonical title": "de l'hoquei, Les",
-  "smart long imdb canonical title": "\"de l'hoquei, Les\" (2019)"
+  "canonical title": "de l'hoquei, Les"
 }]
