@@ -1,0 +1,7 @@
+pandas
+matplotlib
+requests
+bs4
+google-api-python-client
+ydata_profiling
+ipywidgets
